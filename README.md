@@ -1,2 +1,2 @@
-# Gaming
+# API
 GamingAPI
